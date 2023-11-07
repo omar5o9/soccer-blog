@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(to bottom, white, purple); padding: 10px;">
+
 # Real Madrid: The Kings of Europe
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" alt="RMlogo" width="262" height="300"/>

@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(to bottom, red, orange); padding: 10px;">
+
 # The History of AC Milan
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/653px-Logo_of_AC_Milan.svg.png" alt="ACMlogo" width="170" height="300"/>

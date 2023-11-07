@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(to bottom, blue, white); padding: 10px;">
+
 # The History of Chelsea FC
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png" alt="CLogo" width="300" height="300"/>
