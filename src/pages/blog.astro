@@ -1,0 +1,31 @@
+---
+const topicTitle = "Soccer Blog";
+import Navigation from '../components/Navigation.astro';
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{topicTitle}</title>
+	</head>
+	<body>
+
+		<h1>{topicTitle}</h1>
+		<Navigation />
+		<style>
+			
+			body {
+				background: rgb(98, 80, 255);
+			}
+			
+		</style>
+		<ul>
+			<li><a href="/posts/RM/">Real Madrid</a></li>
+			<li><a href="/posts/Chelsea/">Chelsea</a></li>
+			<li><a href="/posts/acmilan/">AC Milan</a></li>
+		</ul>
+	</body>
+</html>
